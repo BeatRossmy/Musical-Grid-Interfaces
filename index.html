@@ -32,6 +32,10 @@
 				"type": "bar",
 				"width": {"band": 0.66}
 			},
+			"transform": [{
+				"calculate": "if(datum.Type === 'Controller', 0, if(datum.Type === 'Instrument', 1, if(datum.Type === 'Keyboard', 2, if(datum.Type === 'Sequencer', 3, 4))))",
+				"as": "TypeOrder"
+			}],
 			"encoding": {
 				"x": {
 					"title": "",
@@ -49,8 +53,10 @@
 					"scale": {
 						"domain": ["Mixer", "DJ-mixer", "Sequencer", "Keyboard", "Instrument", "Controller"],
 						"range": ["#FDF9CD", "#FDF9CD", "#A4D6B2", "#44B6C3", "#2F7FB9", "#293991"]
-					}//,"title": "Weather type"
-				}
+					},
+					"title": "Categories"
+				},
+				"order": {"field": "TypeOrder"}
 			}
 			
 		};
