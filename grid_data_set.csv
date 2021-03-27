@@ -1,0 +1,231 @@
+Manufacturer,Model,Gen.,Year,Year-Format,Width,Height,Cells,Type,Velocity,Display,Add. Buttons,Add. Misc UI,Tesselation
+Novation,Launchpad,1,2009,2009-01-01,8,8,64,Controller,No,No,Yes,No,r
+Novation,Launchpad S,2,2013,2013-01-01,8,8,64,Controller,No,No,Yes,No,r
+Novation,Launchpad Mk2,3,2015,2015-01-01,8,8,64,Controller,No,No,Yes,No,r
+Novation,Launchpad X,4,2019,2019-01-01,8,8,64,Controller,Yes,No,Yes,No,r
+Novation,Launchpad Mini,1,2013,2013-01-01,8,8,64,Controller,No,No,Yes,No,r
+Novation,Launchpad Mini Mk2,2,2015,2015-01-01,8,8,64,Controller,No,No,Yes,No,r
+Novation,Launchpad Mini Mk3,3,2019,2019-01-01,8,8,64,Controller,No,No,Yes,No,r
+Novation,Launchpad Pro,1,2015,2015-01-01,8,8,64,Sequencer,Yes,No,Yes,No,r
+Novation,Launchpad Pro Mk3,3,2020,2020-01-01,8,8,64,Sequencer,Yes,No,Yes,No,r
+Novation,Launchkey Mini,1,2013,2013-01-01,8,2,16,Keyboard,Yes,No,Yes,Yes,r
+Novation,Launchkey Mini Mk2,2,2015,2015-01-01,8,2,16,Keyboard,Yes,No,Yes,Yes,r
+Novation,Launchkey Mini Mk3,3,2019,2019-01-01,8,2,16,Keyboard,Yes,No,Yes,Yes,r
+Novation,Launchkey 25,1,2013,2013-01-01,8,2,16,Keyboard,No,Yes,Yes,Yes,r
+Novation,Launchkey 25 Mk2,2,2015,2015-01-01,8,2,16,Keyboard,No,Yes,Yes,Yes,r
+Novation,Launchkey 25 Mk3,3,2020,2020-01-01,8,2,16,Keyboard,No,Yes,Yes,Yes,r
+Novation,Launchkey 37 Mk3,1,2020,2020-01-01,8,2,16,Keyboard,No,Yes,Yes,Yes,r
+Novation,Launchkey 49,1,2013,2013-01-01,8,2,16,Keyboard,No,Yes,Yes,Yes,r
+Novation,Launchkey 49 MK2,2,2015,2015-01-01,8,2,16,Keyboard,No,Yes,Yes,Yes,r
+Novation,Launchkey 49 MK3,3,2020,2020-01-01,8,2,16,Keyboard,No,Yes,Yes,Yes,r
+Novation,Launchkey 61,1,2013,2013-01-01,8,2,16,Keyboard,No,Yes,Yes,Yes,r
+Novation,Launchkey 61 Mk2,2,2015,2015-01-01,8,2,16,Keyboard,No,Yes,Yes,Yes,r
+Novation,Launchkey 61 Mk3,3,2020,2020-01-01,8,2,16,Keyboard,No,Yes,Yes,Yes,r
+Novation,49SL Mk3,3,2018,2018-01-01,8,2,16,Keyboard,Yes,Yes,Yes,Yes,r
+Novation,61SL Mk3,3,2018,2018-01-01,8,2,16,Keyboard,Yes,Yes,Yes,Yes,r
+Novation,Launch Control XL,1,2014,2014-01-01,8,2,16,Controller,No,No,Yes,Yes,r
+Novation,Launch Control XL,2,2017,2017-01-01,8,2,16,Controller,No,No,Yes,Yes,r
+Novation,Circuit,1,2015,2015-01-01,8,4,32,Instrument,Yes,No,Yes,Yes,r
+Novation,Circuit Mono Station,1,2017,2017-01-01,8,4,32,Instrument,Yes,No,Yes,Yes,r
+Novation,Circuit Rhythm,1,2021,2021-01-01,8,4,32,Instrument,Yes,No,Yes,Yes,r
+Novation,Circuit Tracks,1,2021,2021-01-01,8,4,32,Instrument,Yes,No,Yes,Yes,r
+Ableton,Push,1,2013,2013-01-01,8,8,64,Controller,Yes,Yes,Yes,Yes,r
+Ableton,Push,2,2015,2015-01-01,8,8,64,Controller,Yes,Yes,Yes,Yes,r
+Polyend,Seq,1,2017,2017-01-01,32,8,256,Controller,No,Yes,Yes,Yes,r
+Polyend,Preset,1,2019,2019-01-01,8,4,32,Controller,No,No,No,Yes,r
+Polyend,Tracker,1,2020,2020-01-01,12,4,48,Instrument,No,Yes,Yes,Yes,r
+Monome,40h,1,2006,2006-01-01,8,8,64,Controller,No,No,No,No,r
+Monome,monome 64,1,2007,2007-01-01,8,8,64,Controller,No,No,No,No,r
+Monome,monome 128,1,2007,2007-01-01,16,8,128,Controller,No,No,No,No,r
+Monome,monome 256,1,2007,2007-01-01,16,16,256,Controller,No,No,No,No,r
+Monome,monome 512,1,2010,2010-01-01,32,16,512,Controller,No,No,No,No,r
+Monome,64 grayscale,2,2010,2010-01-01,8,8,64,Controller,No,No,No,No,r
+Monome,128 grayscale,2,2010,2010-01-01,16,8,128,Controller,No,No,No,No,r
+Monome,monome 128,3,2011,2011-01-01,16,8,128,Controller,No,No,No,No,r
+Monome,monome 128,4,2012,2012-01-01,16,8,128,Controller,No,No,No,No,r
+Monome,monome 128,5,2013,2013-01-01,16,8,128,Controller,No,No,No,No,r
+Monome,monome 128,6,2015,2015-01-01,16,8,128,Controller,No,No,No,No,r
+Behringer,cmd lc1,1,2013,2013-01-01,4,8,32,Controller,No,No,Yes,Yes,r
+Behringer,cdm dc1,1,2013,2013-01-01,4,4,16,Controller,No,No,Yes,Yes,r
+Behringer,cmd touch tc64,1,2015,2015-01-01,8,8,64,Controller,No,No,Yes,No,r
+Native instruments,Jam,1,2016,2016-01-01,8,8,64,Controller,No,No,Yes,Yes,r
+Native instruments,Traktor Kontrol F1,1,2012,2012-01-01,4,4,16,Controller,No,No,Yes,Yes,r
+Native instruments,Maschine,1,2009,2009-01-01,4,4,16,Controller,Yes,Yes,Yes,Yes,r
+Native instruments,Maschine MK2,2,2012,2012-01-01,4,4,16,Controller,Yes,Yes,Yes,Yes,r
+Native instruments,Maschine MK3,3,2017,2017-01-01,4,4,16,Controller,Yes,Yes,Yes,Yes,r
+Native instruments,Maschine Micro,1,2011,2011-01-01,4,4,16,Controller,Yes,Yes,Yes,Yes,r
+Native instruments,Maschine Micro Mk2,2,2015,2015-01-01,4,4,16,Controller,Yes,Yes,Yes,Yes,r
+Native instruments,Maschine Micro Mk3,3,2018,2018-01-01,4,4,16,Controller,Yes,Yes,Yes,Yes,r
+Native instruments,Maschine Studio,1,2013,2013-01-01,4,4,16,Controller,Yes,Yes,Yes,Yes,r
+Native instruments,Machine+,1,2020,2020-01-01,4,4,16,Instrument,Yes,Yes,Yes,Yes,r
+Native instruments,Traktor Kontrol S2 Mk1,1,2011,2011-01-01,4,2,8,Controller,No,No,Yes,Yes,r
+Native instruments,Traktor Kontrol S2 Mk2,2,2014,2014-01-01,4,2,8,Controller,No,No,Yes,Yes,r
+Native instruments,Traktor Kontrol S2 Mk3,3,2018,2018-01-01,4,2,8,Controller,No,No,Yes,Yes,r
+Native instruments,Traktor Kontrol S3,1,2019,2019-01-01,4,2,8,Controller,No,No,Yes,Yes,r
+Native instruments,Traktor Kontrol S4 Mk1,1,2010,2010-01-01,4,2,8,Controller,No,Yes,Yes,Yes,r
+Native instruments,Traktor Kontrol S4 Mk2,2,2014,2014-01-01,4,2,8,Controller,No,Yes,Yes,Yes,r
+Native instruments,Traktor Kontrol S4 Mk3,3,2018,2018-01-01,4,2,8,Controller,No,Yes,Yes,Yes,r
+Native instruments,Traktor Kontrol S8,1,2014,2014-01-01,4,2,8,Controller,No,Yes,Yes,Yes,r
+Yamaha,Tenori On,1,2007,2007-01-01,16,16,256,Instrument,No,Yes,Yes,Yes,r
+Yamaha,TNR-O,2,2009,2009-01-01,16,16,256,Instrument,No,Yes,Yes,Yes,r
+Mode Machines,seq-12,,2018,2018-01-01,16,12,192,Controller,No,Yes,Yes,No,r
+Empress,Zoia,1,2019,2019-01-01,8,5,40,Instrument,No,Yes,Yes,Yes,r
+Empress,Zoia Euroburo,1,2020,2020-01-01,8,5,40,Instrument,No,Yes,Yes,Yes,r
+Akai,APC20,1,2010,2010-01-01,8,5,40,Controller,No,No,Yes,Yes,r
+Akai,APC mini,1,2014,2014-01-01,8,8,64,Controller,No,No,Yes,Yes,r
+Akai,APC40,1,2009,2009-01-01,8,5,40,Controller,No,No,Yes,Yes,r
+Akai,APC40 mk2,2,2014,2014-01-01,8,5,40,Controller,No,No,Yes,Yes,r
+Akai,Fire,1,2018,2018-01-01,16,4,64,Controller,No,Yes,Yes,Yes,r
+Akai,APC Keys 25,1,2014,2014-01-01,8,5,40,Keyboard,No,No,Yes,Yes,r
+Akai,Force,1,2019,2019-01-01,8,8,64,Instrument,Yes,Yes,Yes,Yes,r
+Akai,MPC Live,1,2017,2017-01-01,4,4,16,Instrument,Yes,Yes,Yes,Yes,r
+Akai,MPC Live II,2,2020,2020-01-01,4,4,16,Instrument,Yes,Yes,Yes,Yes,r
+Akai,MPC X,1,2019,2019-01-01,4,4,16,Instrument,Yes,Yes,Yes,Yes,r
+Akai,MPC one,1,2020,2020-01-01,4,4,16,Instrument,Yes,Yes,Yes,Yes,r
+Akai,MPC touch,1,2015,2015-01-01,4,4,16,Instrument,Yes,Yes,Yes,Yes,r
+Arturia,BeatStep,1,2014,2014-01-01,8,2,16,Controller,Yes,No,Yes,Yes,r
+Arturia,BeatStep Pro,1,2015,2015-01-01,8,2,16,Sequencer,Yes,Yes,Yes,Yes,r
+Arturia,MatrixBrute,1,2016,2016-01-01,16,16,256,Instrument,No,Yes,Yes,Yes,r
+Arturia,PolyBrute,1,2020,2020-01-01,8,12,96,Instrument,No,Yes,Yes,Yes,r
+Presonus,Atom,1,2018,2018-01-01,4,4,16,Controller,Yes,No,Yes,Yes,r
+Presonus,Atom SQ,1,2020,2020-01-01,16,2,32,Sequencer,Yes,Yes,Yes,Yes,r
+Keith McMillen,QuNeo,1,2013,2013-01-01,4,4,16,Controller,Yes,No,Yes,No,r
+Icon,iStage,1,2012,2012-01-01,12,4,48,Controller,Yes,Yes,Yes,Yes,r
+Livid,base,1,2013,2013-01-01,8,4,32,Controller,Yes,Yes,Yes,Yes,r
+Livid,base 2,2,2015,2015-01-01,8,4,32,Controller,Yes,Yes,Yes,Yes,r
+Livid,minim,1,2016,2016-01-01,4,2,8,Controller,Yes,No,Yes,No,r
+Livid,alias 8,1,2012,2012-01-01,8,2,16,Controller,No,Yes,Yes,Yes,r
+Livid,ohm 64,1,2010,2010-01-01,8,8,64,Controller,No,No,Yes,Yes,r
+Livid,ohmRGB,2,2011,2011-01-01,8,8,64,Controller,No,No,Yes,Yes,r
+Livid,block,1,2010,2010-01-01,8,8,64,Controller,No,No,Yes,Yes,r
+Livid,contrl-r,1,2012,2012-01-01,4,4,16,Controller,No,No,Yes,Yes,r
+Adafruit,Hella,1,2014,2014-01-01,16,8,128,Controller,No,No,No,No,r
+Adafruit,Untztrument,1,2014,2014-01-01,8,8,64,Controller,No,No,No,No,r
+Adafruit,NeoTrellis,1,2018,2018-01-01,8,4,32,Instrument,No,No,No,No,r
+Adafruit,Trellis Feather M4,1,2019,2019-01-01,8,8,64,Controller,No,No,No,No,r
+RN Instruments,RN 9090,1,2013,2013-01-01,16,12,192,Controller,No,Yes,No,Yes,r
+DJ TechTools,MidiFighter 64,1,2015,2015-01-01,8,8,64,Controller,No,No,No,No,r
+DJ TechTools,MidiFighter 3D,1,2012,2012-01-01,4,4,16,Controller,No,No,Yes,No,r
+Hercules,P32 DJ,1,2016,2016-01-01,8,4,32,Controller,No,No,Yes,Yes,r
+Hercules,Inpulse 200,,2020,2020-01-01,2,2,4,Controller,No,No,Yes,Yes,r
+Hercules,DJControl Inpulse,1,2020,2020-01-01,4,2,8,Controller,No,No,Yes,Yes,r
+Pioneer,DJDDJ-XP1,1,2017,2017-01-01,4,4,16,Controller,Yes,Yes,Yes,Yes,r
+Pioneer,DDJ-FLX6,1,2020,2020-01-01,4,2,8,Controller,Yes,Yes,Yes,Yes,r
+Pioneer,DJDDJ-XP2,2,2019,2019-01-01,4,4,16,Controller,Yes,Yes,Yes,Yes,r
+Pioneer,DDJ-SP1,1,2013,2013-01-01,4,2,8,Controller,Yes,No,Yes,Yes,r
+Pioneer,DJS-1000,1,2017,2017-01-01,4,4,16,Instrument,Yes,Yes,Yes,Yes,r
+Pioneer,TORAIZ SP-16,1,2016,2016-01-01,4,4,16,Instrument,Yes,Yes,Yes,Yes,r
+Pioneer,Squid,1,2019,2019-01-01,4,4,16,Instrument,Yes,Yes,Yes,Yes,r
+Pioneer,DJM-S9,1,2015,2015-01-01,4,2,8,Mixer,No,No,Yes,Yes,r
+Pioneer,DJM-S11,1,2020,2020-01-01,4,2,8,Mixer,Yes,Yes,Yes,Yes,r
+Pioneer,DJM-S11 SE,1,2020,2020-01-01,4,2,8,Mixer,Yes,Yes,Yes,Yes,r
+Electrix,Tweeker,1,2012,2012-01-01,8,4,32,Controller,No,No,Yes,Yes,r
+Robaux,SWT16+,1,2018,2018-01-01,4,7,28,Sequencer,No,No,No,No,r
+Robaux,SWT16,1,2017,2017-01-01,4,4,16,Sequencer,No,No,No,No,r
+Live Stock Electronics,Black Maze,1,2019,2019-01-01,4,4,16,Sequencer,No,Yes,Yes,Yes,r
+Live Stock Electronics,Ellis,1,2020,2020-01-01,4,2,8,Controller,No,Yes,Yes,Yes,r
+WMD,metron,1,2019,2019-01-01,16,4,64,Sequencer,No,Yes,Yes,Yes,r
+Dadamachines,Composer Pro,1,2020,2020-01-01,16,12,192,Instrument,No,Yes,Yes,Yes,r
+Zetaohm,ZLXS1,1,2017,2017-01-01,5,4,20,Sequencer,No,Yes,Yes,Yes,r
+Muslady / Worlde,Orca Pad 48,1,2019,2019-01-01,8,6,48,Controller,Yes,No,Yes,Yes,r
+Muslady / Worlde,Orca Pad 64,1,2019,2019-01-01,8,8,64,Controller,Yes,No,Yes,No,r
+Muslady / Worlde,Panda Mini,1,2015,2015-01-01,4,2,8,Keyboard,Yes,No,Yes,Yes,r
+Midiplus,Smart Pad,1,2015,2015-01-01,8,8,64,Controller,No,No,Yes,Yes,r
+Midiplus,X-pad,1,2017,2017-01-01,4,4,16,Controller,Yes,No,Yes,Yes,r
+AMW,SmartPad,1,2015,2015-01-01,8,8,64,Controller,No,No,Yes,Yes,r
+Roger Linn,LinnStrument,1,2015,2015-01-01,25,8,200,Controller,Yes,No,No,No,r
+Roger Linn,LinnStrument 128,1,2016,2016-01-01,16,8,128,Controller,Yes,No,No,No,r
+Dualo,du-touch S,1,2016,2016-01-01,,,52,Controller,Yes,Yes,Yes,No,h
+Dualo,du-touch,1,2014,2014-01-01,,,116,Controller,Yes,Yes,Yes,No,h
+Samson,Conspiracy,1,2015,2015-01-01,5,5,25,Controller,Yes,Yes,Yes,Yes,r
+CodaNova,VMX V64,1,2011,2011-01-01,16,4,64,Controller,No,No,Yes,Yes,r
+Synthstrom,Deluge,1,2016,2016-01-01,16,8,128,Instrument,No,Yes,Yes,Yes,r
+Dreadbox,Medusa,1,2017,2017-01-01,8,8,64,Instrument,Yes,Yes,Yes,Yes,r
+Elektron,Analog Rytm,1,2014,2014-01-01,4,3,12,Instrument,Yes,Yes,Yes,Yes,r
+Elektron,Analog Rytm,2,2017,2017-01-01,4,3,12,Instrument,Yes,Yes,Yes,Yes,r
+Elektron,Digitakt,1,2017,2017-01-01,8,2,16,Instrument,No,Yes,Yes,Yes,r
+Elektron,Digitone,1,2018,2018-01-01,8,2,16,Instrument,No,Yes,Yes,Yes,r
+Roland,MC707,1,2019,2019-01-01,8,2,16,Instrument,Yes,Yes,Yes,Yes,r
+Roland,MC101,1,2019,2019-01-01,8,2,16,Instrument,No,Yes,Yes,Yes,r
+Roland,SP-808,1,1998,1998-01-01,4,4,16,Instrument,No,Yes,Yes,Yes,r
+Roland,Fantom S,1,2003,2003-01-01,4,4,16,Instrument,Yes,Yes,Yes,Yes,r
+Roland,Fa-06,1,2014,2014-01-01,4,4,16,Instrument,Yes,Yes,Yes,Yes,r
+Roland,VERSELAB MV-01,1,2021,2021-01-01,4,4,16,Instrument,Yes,Yes,Yes,Yes,r
+Boss,SP-505,1,2002,2002-01-01,8,2,16,Instrument,No,Yes,Yes,Yes,r
+Boss,SP-202,1,1998,1998-01-01,4,2,8,Instrument,No,Yes,Yes,Yes,r
+Boss,SP-303,1,2001,2001-01-01,4,2,8,Instrument,No,Yes,Yes,Yes,r
+Boss,SP-404,1,2005,2005-01-01,4,3,12,Instrument,No,Yes,Yes,Yes,r
+Boss,SP-404SX,2,2009,2009-01-01,4,3,12,Instrument,No,Yes,Yes,Yes,r
+Boss,SP-404A,3,2017,2017-01-01,4,3,12,Instrument,No,Yes,Yes,Yes,r
+ASM,Hydrasynth,1,2019,2019-01-01,8,3,23,Instrument,Yes,Yes,Yes,Yes,r
+Korg,Electribe,1,2014,2014-01-01,8,2,16,Instrument,Yes,Yes,Yes,Yes,r
+Korg,Electribe Sampler,1,2014,2014-01-01,8,2,16,Instrument,Yes,Yes,Yes,Yes,r
+Korg,SQ-64,1,2020,2020-01-01,16,4,64,Sequencer,No,Yes,Yes,Yes,r
+Casio,Trackformer XW-PD1,1,2015,2015-01-01,4,4,16,Instrument,Yes,Yes,Yes,Yes,r
+Teenage Engineering,PO-12,1,2015,2015-01-01,5,4,20,Instrument,No,Yes,Yes,Yes,r
+Teenage Engineering,PO-14,1,2015,2015-01-01,5,4,20,Instrument,No,Yes,Yes,Yes,r
+Teenage Engineering,PO-16,1,2015,2015-01-01,5,4,20,Instrument,No,Yes,Yes,Yes,r
+Teenage Engineering,PO-20,1,2016,2016-01-01,5,4,20,Instrument,No,Yes,Yes,Yes,r
+Teenage Engineering,PO-24,1,2016,2016-01-01,5,4,20,Instrument,No,Yes,Yes,Yes,r
+Teenage Engineering,PO-28,1,2016,2016-01-01,5,4,20,Instrument,No,Yes,Yes,Yes,r
+Teenage Engineering,PO-32,1,2018,2018-01-01,5,4,20,Instrument,No,Yes,Yes,Yes,r
+Teenage Engineering,PO-33,1,2018,2018-01-01,5,4,20,Instrument,No,Yes,Yes,Yes,r
+Teenage Engineering,PO-35,1,2018,2018-01-01,5,4,20,Instrument,No,Yes,Yes,Yes,r
+TipTop Audio,Circadian Rhythm,1,2014,2014-01-01,9,8,72,Sequencer,No,No,No,Yes,r
+Make Noise,Rene Mk2,2,2018,2018-01-01,4,4,16,Sequencer,No,No,Yes,Yes,r
+Bastl Instruments,Knit Rider,1,2015,2015-01-01,4,8,32,Sequencer,No,No,No,No,r
+Erica Synths,Drum Sequencer,1,2018,2018-01-01,4,4,16,Sequencer,No,Yes,Yes,Yes,r
+Centrevillage,TriggerHacKer,1,2018,2018-01-01,5,5,25,Sequencer,No,No,No,No,r
+Irijule,Theory Board,1,2019,2019-01-01,12,4,48,Sequencer,Yes,Yes,Yes,No,r
+Bhoreal,Bhoreal,1,2013,2013-01-01,8,8,64,Controller,No,No,No,No,r
+Bhoreal,Mini Slim,1,2014,2014-01-01,4,4,16,Controller,No,No,No,Yes,r
+IK Multimedia,iRig PADS,1,2014,2014-01-01,4,4,16,Controller,Yes,No,Yes,Yes,r
+Dave Smith,Tempest,1,2011,2011-01-01,8,2,16,Instrument,Yes,Yes,Yes,Yes,r
+Twisted Electrons,Deton8,1,2019,2019-01-01,8,2,16,Instrument,No,No,Yes,Yes,r
+Twisted Electrons,Crazy8 Beats,1,2018,2018-01-01,8,2,16,Sequencer,No,No,Yes,Yes,r
+Tech Will Save Us,Arcade Coder,1,2019,2019-01-01,12,12,144,Controller,No,No,No,No,r
+Numark,Orbit,1,2013,2013-01-01,4,4,16,Controller,No,No,Yes,Yes,r
+Nao Next,Crystal Ball,1,2014,2014-01-01,6,4,24,Controller,No,No,No,Yes,r
+Torso Electronics,T-1 MIDI Sequencer,1,2020,2020-01-01,8,2,16,Sequencer,No,No,Yes,Yes,r
+BirdKids,Grid,1,2020,2020-01-01,4,4,16,Controller,No,No,Yes,Yes,r
+Rane,SEVENTY-TWO,1,2017,2017-01-01,4,2,8,Mixer,Yes,Yes,Yes,Yes,r
+Rane,SEVENTY-TWO,2,2020,2020-01-01,4,2,8,Mixer,Yes,Yes,Yes,Yes,r
+Rane,SEVENTY,1,2020,2020-01-01,4,2,8,Mixer,Yes,Yes,Yes,Yes,r
+Lumatone,Microtonal Keyboard,1,2020,2020-01-01,,,257,Keyboard,Yes,No,No,Yes,h
+Nektar,Aura Beat,1,2020,2020-01-01,4,4,16,Controller,Yes,Yes,Yes,Yes,r
+midiohy,loopA,1,2018,2018-01-01,7,2,14,Sequencer,No,Yes,No,Yes,h
+Snyderphonics,Manta,1,2009,2009-01-01,8,6,48,Instrument,Yes,No,Yes,Yes,h
+Intech Studio,Grid,1,2019,2019-01-01,4,4,16,Controller,No,No,No,No,r
+Special Waves,Mine S,1,2020,2020-01-01,4,8,32,Controller,Yes,No,Yes,Yes,r
+Yaeltex,V2,1,2020,2020-01-01,16,16,256,Controller,No,No,Yes,Yes,r
+maono,MAONOCASTER,1,2020,2020-01-01,2,4,8,Controller,No,No,Yes,Yes,r
+alter.audio,Timetosser,1,2020,2020-01-01,8,2,16,Instrument,,No,No,No,r
+Reloop,Neon,1,2014,2014-01-01,4,2,8,Controller,Yes,No,Yes,Yes,r
+Reloop,Beatmix 2,2,2016,2016-01-01,4,2,8,Controller,Yes,No,Yes,Yes,r
+Reloop,Beatmix 4,2,2016,2016-01-01,4,2,8,Controller,Yes,No,Yes,Yes,r
+Reloop,Beatpad 2,1,2015,2015-01-01,4,2,8,Controller,Yes,No,Yes,Yes,r
+Reloop,Mixon 4,1,2016,2016-01-01,4,2,8,Controller,Yes,No,Yes,Yes,r
+Reloop,Touch,1,2018,2018-01-01,4,2,8,Controller,Yes,Yes,Yes,Yes,r
+Reloop,Buddy,1,2020,2020-01-01,4,2,8,Controller,Yes,No,Yes,Yes,r
+Reloop,Elite,1,2019,2019-01-01,4,2,8,Mixer,Yes,Yes,Yes,Yes,r
+ThinkGeek,Bliptronic 5000,1,2009,2009-01-01,8,8,64,Instrument,No,No,Yes,Yes,r
+Machinewerks,CS X51,1,2014,2014-01-01,6,4,24,Controller,No,No,No,Yes,r
+Misa,NSC16,1,2015,2015-01-01,16,16,256,Controller,No,No,Yes,Yes,r
+Misa,NSC32,1,2015,2015-01-01,32,16,512,Controller,No,No,Yes,Yes,r
+Starr Labs,Clipper,1,2013,2013-01-01,24,6,144,Controller,Yes,No,No,Yes,r
+Rode,RodeCaster Pro,1,2018,2018-01-01,2,4,8,Controller,No,Yes,Yes,Yes,r
+TKRworks,PICratchBOX,1,2011,2011-01-01,4,4,16,Mixer,No,No,Yes,Yes,r
+MFB,Step 64,1,2009,2009-01-01,8,2,16,Sequencer,No,Yes,Yes,Yes,r
+ACL,P2B8,1,2020,2020-01-01,2,4,8,Controller,No,No,No,Yes,r
+Waldorf,Iridium,1,2020,2020-01-01,4,4,16,Instrument,,Yes,Yes,Yes,r
+Squarp,Paramid,1,2017,2017-01-01,8,2,16,Sequencer,No,Yes,Yes,Yes,r
+Squarp,Paramid,2,2018,2018-01-01,8,2,16,Sequencer,No,Yes,Yes,Yes,r
+Squarp,Paramid,3,2019,2019-01-01,8,2,16,Sequencer,No,Yes,Yes,Yes,r
+Soundwell,Dek,1,2018,2018-01-01,20,10,200,Controller,Yes,No,Yes,No,r
+GODJ,Plus,1,2016,2016-01-01,4,2,8,Mixer,No,Yes,Yes,Yes,r
+Zoom,PodTrak P8,1,2020,2020-01-01,3,3,9,mixer,,,,,r
+DASZ,ALEX Main,1,2018,2018-01-01,4,2,8,Instrument,No,Yes,Yes,Yes,r
+DASZ,ALEX Expand,1,2018,2018-01-01,4,2,8,Controller,No,Yes,Yes,Yes,r
+KALO,Dark Fire Pad,1,2020,2020-01-01,2,4,8,Controller,,No,Yes,Yes,r
+OXI Instruments,OXI ONE,1,2020,2020-01-01,16,8,128,Sequencer,No,Yes,Yes,Yes,r
+Acid Rain,Maestro,1,2020,2020-01-01,7,4,28,Controller,No,No,No,No,r

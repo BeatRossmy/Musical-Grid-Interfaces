@@ -1,0 +1,14 @@
+Feature,Amount,Type
+Width,8,Median
+Height,4,Median
+Cells,16,Median
+Velocity,37.39130435,Percent
+Display,50.86956522,Percent
+Add. Buttons,83.47826087,Percent
+Add. Misc UI,79.56521739,Percent
+Controller,117,Count
+Instrument,61,Count
+Keyboard,18,Count
+Mixer,10,Count
+Sequencer,24,Count
+Products,230,Count
