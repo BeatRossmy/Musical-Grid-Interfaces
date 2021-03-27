@@ -23,41 +23,44 @@
 	  
 	<script>
 		var vlSpec = {
-		  "data": {"url": "grid_data_set.json"},
 			
-			"width": "container",
-			"height": 300,		  
-			//"mark": "bar",
-			"mark": {
-				"type": "bar",
-				"width": {"band": 0.66}
-			},
-			"transform": [{
-				"calculate": "if(datum.Type === 'Controller', 0, if(datum.Type === 'Instrument', 1, if(datum.Type === 'Keyboard', 2, if(datum.Type === 'Sequencer', 3, 4))))",
-				"as": "TypeOrder"
-			}],
-			"encoding": {
-				"x": {
-					"title": "",
-					"timeUnit": "year",
-					"field": "Year-Format"
+			"vconcat": [
+				{
+				"data": {"url": "grid_data_set.json"},
+				"width": "container",
+				"height": 300,
+				"mark": {
+					"type": "bar",
+					"width": {"band": 0.66}
 				},
-				"y": {
-					"title": "",
-					"aggregate": "count",
-					"type": "Type"
-				},
-				"color": {
-					"field": "Type",
-					"type": "nominal",
-					"scale": {
-						"domain": ["Mixer", "DJ-mixer", "Sequencer", "Keyboard", "Instrument", "Controller"],
-						"range": ["#FDF9CD", "#FDF9CD", "#A4D6B2", "#44B6C3", "#2F7FB9", "#293991"]
+				"transform": [{
+					"calculate": "if(datum.Type === 'Controller', 0, if(datum.Type === 'Instrument', 1, if(datum.Type === 'Keyboard', 2, if(datum.Type === 'Sequencer', 3, 4))))",
+					"as": "TypeOrder"
+				}],
+				"encoding": {
+					"x": {
+						"title": "",
+						"timeUnit": "year",
+						"field": "Year-Format"
 					},
-					"title": "Categories"
-				},
-				"order": {"field": "TypeOrder"}
-			}
+					"y": {
+						"title": "",
+						"aggregate": "count",
+						"type": "Type"
+					},
+					"color": {
+						"field": "Type",
+						"type": "nominal",
+						"scale": {
+							"domain": ["Mixer", "DJ-mixer", "Sequencer", "Keyboard", "Instrument", "Controller"],
+							"range": ["#FDF9CD", "#FDF9CD", "#A4D6B2", "#44B6C3", "#2F7FB9", "#293991"]
+						},
+						"title": "Categories"
+					},
+					"order": {"field": "TypeOrder"}
+				}
+				}
+			]
 			
 		};
 	
