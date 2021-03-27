@@ -26,51 +26,51 @@
 			
 			"vconcat": [
 				{
-				"data": {"url": "grid_data_set.csv"},
-				"width": "container",
-				"height": 300,
-				"mark": {
-					"type": "bar",
-					"width": {"band": 0.66}
-				},
-				"transform": [{
-					"calculate": "if(datum.Type === 'Controller', 0, if(datum.Type === 'Instrument', 1, if(datum.Type === 'Keyboard', 2, if(datum.Type === 'Sequencer', 3, 4))))",
-					"as": "TypeOrder"
-				}],
-				"encoding": {
-					"x": {
-						"title": "",
-						"timeUnit": "year",
-						"field": "Year-Format"
+					"data": {"url": "grid_data_set.csv"},
+					"width": "container",
+					"height": 300,
+					"mark": {
+						"type": "bar",
+						"width": {"band": 0.66}
 					},
-					"y": {
-						"title": "",
-						"aggregate": "count",
-						"type": "Type"
-					},
-					"color": {
-						"field": "Type",
-						"type": "nominal",
-						"scale": {
-							"domain": ["Mixer", "Sequencer", "Keyboard", "Instrument", "Controller"],
-							"range": ["#FDF9CD", "#A4D6B2", "#44B6C3", "#2F7FB9", "#293991"]
+					"transform": [{
+						"calculate": "if(datum.Type === 'Controller', 0, if(datum.Type === 'Instrument', 1, if(datum.Type === 'Keyboard', 2, if(datum.Type === 'Sequencer', 3, 4))))",
+						"as": "TypeOrder"
+					}],
+					"encoding": {
+						"x": {
+							"title": "",
+							"timeUnit": "year",
+							"field": "Year-Format"
 						},
-						"title": "Categories"
-					},
-					"order": {"field": "TypeOrder"}
-				}
+						"y": {
+							"title": "",
+							"aggregate": "count",
+							"type": "Type"
+						},
+						"color": {
+							"field": "Type",
+							"type": "nominal",
+							"scale": {
+								"domain": ["Mixer", "Sequencer", "Keyboard", "Instrument", "Controller"],
+								"range": ["#FDF9CD", "#A4D6B2", "#44B6C3", "#2F7FB9", "#293991"]
+							},
+							"title": "Categories"
+						},
+						"order": {"field": "TypeOrder"}
+					}
 				},
 				{
-				"data": "meta_infos.csv",
-				"width": "container",
-				"height": 300,
-				"transform": [
-					{"filter": {"field": "Feature", "oneOf": ["Velocity", "Display"]}}}
-				],
-				"encoding": {
-					"y": {"field": "Feature", "type": "nominal"},
-					"x": {"field": "Amount", "type": "quantitative", "scale": {"domain": [0, 100]}}
-				},
+					"data": "meta_infos.csv",
+					"width": "container",
+					"height": 300,
+					"transform": [
+						{"filter": {"field": "Feature", "oneOf": ["Velocity", "Display"]}}}
+					],
+					"encoding": {
+						"y": {"field": "Feature", "type": "nominal"},
+						"x": {"field": "Amount", "type": "quantitative", "scale": {"domain": [0, 100]}}
+					}
 				}
 			]
 			
