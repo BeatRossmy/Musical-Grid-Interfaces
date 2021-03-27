@@ -64,6 +64,9 @@
 					"data": {"url": "meta_infos.csv"},
 					"width": "container",
 					"height": 300,
+					"transform": [
+						{"filter": {"field": "Feature", "oneOf": ["Velocity", "Display"]}}
+					],
 					"mark": {
 						"type": "bar",
 						"width": {"band": 0.66}
