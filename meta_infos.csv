@@ -4,8 +4,10 @@ Height,4,Median
 Cells,16,Median
 Velocity,37.39130435,Percent
 Display,50.86956522,Percent
-Add. Buttons,83.47826087,Percent
-Add. Misc UI,79.56521739,Percent
+Add_Buttons,83.47826087,Percent
+Add_UI,79.56521739,Percent
+Tesselation_rect,97.82608696,Percent
+Tesselation_hex,2.173913043,Percent
 Controller,117,Count
 Instrument,61,Count
 Keyboard,18,Count
